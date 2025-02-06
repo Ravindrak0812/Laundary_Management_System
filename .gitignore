@@ -1,0 +1,14 @@
+# Ignore all .log files
+*.log
+
+# Ignore build directories
+/build/
+/dist/
+
+# Ignore virtual environment files
+/venv/
+
+# Ignore large media files
+*.png
+*.jpg
+*.mp4
